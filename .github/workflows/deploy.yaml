@@ -1,0 +1,40 @@
+name: CI deploy
+
+on:
+  push:
+    branches: [master]
+env:
+  GCP_KEY_FILE: ${{ secrets.GCP_KEY_FILE }}
+  GCP_CRED: ${{ secrets.GCP_CRED }}
+  HOST: 35.242.152.168
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: "12.x.x"
+      - name: Build Server
+        env:
+          NODE_ENV: development
+        run: |
+          npm ci
+          npm run build --if-present
+
+      - name: Deploy on server
+        env:
+          DEPLOYMENT_KEY: ${{ secrets.DEPLOYMENT_KEY }}
+          ENV_FILE: ${{ secrets.ENV_FILE }}
+        run: |
+          echo "start updateInstead mhkhk ";
+          mkdir ~/.ssh;
+          touch ~/.ssh/known_hosts;
+          ssh-keyscan $HOST >> ~/.ssh/known_hosts;
+          echo $DEPLOYMENT_KEY | base64 -d > ~/.ssh/id_rsa;
+          chmod 644 ~/.ssh/known_hosts;
+          chmod 600 ~/.ssh/id_rsa;
+          chmod 0755 ./.github/workflows/deploy.sh;
+          ./.github/workflows/deploy.sh;
+          rm -rf ~/.ssh;

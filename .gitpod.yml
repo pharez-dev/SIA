@@ -1,0 +1,20 @@
+github:
+  prebuilds:
+    # enable for the master/default branch (defaults to true)
+    master: true
+    # enable for all branches in this repo (defaults to false)
+    branches: false
+    # enable for pull requests coming from this repo (defaults to true)
+    pullRequests: true
+    # add a check to pull requests (defaults to true)
+    addCheck: true
+    # add a "Review in Gitpod" button as a comment to pull requests (defaults to false)
+    addComment: false
+tasks:
+  - command: npm i -g nodemon
+image:
+  file: .gitpod.Dockerfile
+vscode:
+  extensions:
+    - xyz.local-history@1.8.0:Cxupqn4wlavbnUko7pW9EA==
+    - esbenp.prettier-vscode@3.20.0:37/f4uBlE287wUjENFq1aA==

@@ -1,0 +1,109 @@
+2020-10-28 03:48:27 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 03:48:27 info: Created optimizedImages directory
+2020-10-28 03:48:27 info: Created optimizedImages directory
+2020-10-28 03:48:27 info: Created originalImages directory
+2020-10-28 03:49:42 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 03:49:42 info: Created optimizedImages directory
+2020-10-28 03:49:42 info: Created optimizedImages directory
+2020-10-28 03:49:42 info: Created originalImages directory
+2020-10-28 03:54:32 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 03:54:32 info: Created optimizedImages directory
+2020-10-28 03:54:32 info: Created optimizedImages directory
+2020-10-28 03:54:32 info: Created originalImages directory
+2020-10-28 03:54:45 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 03:54:45 info: Created optimizedImages directory
+2020-10-28 03:54:45 info: Created originalImages directory
+2020-10-28 03:54:45 info: Created optimizedImages directory
+2020-10-28 04:00:00 info: Starting DB back Up
+2020-10-28 04:00:03 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 04:00:03 info: Created optimizedImages directory
+2020-10-28 04:00:03 info: Created optimizedImages directory
+2020-10-28 04:00:03 info: Created originalImages directory
+2020-10-28 04:01:00 info: Starting dumps upload to cloud 
+2020-10-28 04:01:00 info: Done zipping:
+2020-10-28 04:14:13 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 04:14:13 info: Created optimizedImages directory
+2020-10-28 04:14:13 info: Created optimizedImages directory
+2020-10-28 04:14:13 info: Created originalImages directory
+2020-10-28 07:01:55 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 07:01:55 info: Created optimizedImages directory
+2020-10-28 07:01:55 info: Created optimizedImages directory
+2020-10-28 07:01:55 info: Created originalImages directory
+2020-10-28 07:07:49 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 07:07:49 info: Created optimizedImages directory
+2020-10-28 07:07:49 info: Created optimizedImages directory
+2020-10-28 07:07:49 info: Created originalImages directory
+2020-10-28 07:08:11 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 07:08:11 info: Created optimizedImages directory
+2020-10-28 07:08:11 info: Created originalImages directory
+2020-10-28 07:08:11 info: Created optimizedImages directory
+2020-10-28 07:16:00 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 07:16:00 info: Created optimizedImages directory
+2020-10-28 07:16:00 info: Created optimizedImages directory
+2020-10-28 07:16:00 info: Created originalImages directory
+2020-10-28 07:16:38 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 07:16:38 info: Created optimizedImages directory
+2020-10-28 07:16:38 info: Created originalImages directory
+2020-10-28 07:16:38 info: Created optimizedImages directory
+2020-10-28 08:33:31 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 08:33:31 info: Created optimizedImages directory
+2020-10-28 08:33:31 info: Created optimizedImages directory
+2020-10-28 08:33:31 info: Created originalImages directory
+2020-10-28 09:00:00 info: Starting DB back Up
+2020-10-28 09:00:03 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 09:00:03 info: Created optimizedImages directory
+2020-10-28 09:00:03 info: Created optimizedImages directory
+2020-10-28 09:00:03 info: Created originalImages directory
+2020-10-28 09:01:00 info: Starting dumps upload to cloud 
+2020-10-28 09:01:00 info: Done zipping:
+2020-10-28 10:00:00 info: Starting DB back Up
+2020-10-28 10:00:03 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 10:00:03 info: Created optimizedImages directory
+2020-10-28 10:00:03 info: Created originalImages directory
+2020-10-28 10:00:03 info: Created optimizedImages directory
+2020-10-28 10:01:00 info: Starting dumps upload to cloud 
+2020-10-28 10:01:00 info: Done zipping:
+2020-10-28 10:21:29 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 10:21:29 info: Created optimizedImages directory
+2020-10-28 10:21:29 info: Created optimizedImages directory
+2020-10-28 10:21:29 info: Created originalImages directory
+2020-10-28 10:53:41 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 10:53:41 info: Created optimizedImages directory
+2020-10-28 10:53:41 info: Created optimizedImages directory
+2020-10-28 10:53:41 info: Created originalImages directory
+2020-10-28 10:55:10 info: Image jobs started!!!
+2020-10-28 10:55:10 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-10-28 10:55:40 info: Image optimization finished: 4 optimized
+2020-10-28 10:55:42 error: No matching document found for id "5f6c947944920f2362a49e75" version 1 modifiedPaths "images"
+2020-10-28 10:55:42 error: No matching document found for id "5f6c947944920f2362a49e75" version 1 modifiedPaths "images"
+2020-10-28 10:55:42 error: No matching document found for id "5f6c947944920f2362a49e75" version 1 modifiedPaths "images"
+2020-10-28 10:55:42 info: Moving  finished: 4 files moved to optimized
+2020-10-28 10:56:10 info: Image jobs started!!!
+2020-10-28 10:56:10 info: 
+To be optimized: 3 
+To be uploaded 4 
+To be moved: 3
+2020-10-28 10:56:10 error: No matching document found for id "5f6c947944920f2362a49e75" version 2 modifiedPaths "images"
+2020-10-28 10:56:10 error: No matching document found for id "5f6c947944920f2362a49e75" version 2 modifiedPaths "images"
+2020-10-28 10:56:10 info: Moving  finished: 4 files moved to optimized
+2020-10-28 10:57:10 info: Image jobs started!!!
+2020-10-28 10:57:10 info: 
+To be optimized: 2 
+To be uploaded 4 
+To be moved: 2
+2020-10-28 10:57:10 error: No matching document found for id "5f6c947944920f2362a49e75" version 3 modifiedPaths "images"
+2020-10-28 10:57:10 info: Moving  finished: 4 files moved to optimized
+2020-10-28 10:57:24 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 10:57:24 info: Created optimizedImages directory
+2020-10-28 10:57:24 info: Created optimizedImages directory
+2020-10-28 10:57:24 info: Created originalImages directory
+2020-10-28 11:00:00 info: Starting DB back Up
+2020-10-28 11:00:03 info: SIA SERVER IS RUNNING!!!, on   port :8080
+2020-10-28 11:00:03 info: Created optimizedImages directory
+2020-10-28 11:00:03 info: Created optimizedImages directory
+2020-10-28 11:00:03 info: Created originalImages directory
+2020-10-28 11:01:00 info: Starting dumps upload to cloud 
+2020-10-28 11:01:00 info: Done zipping:

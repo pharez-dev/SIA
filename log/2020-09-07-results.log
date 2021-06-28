@@ -1,0 +1,1003 @@
+2020-09-07 09:51:38 verbose: Verbose info
+2020-09-07 09:51:38 info: Hello world
+2020-09-07 09:51:38 warn: Warning message
+2020-09-07 09:51:38 error: Error info
+2020-09-07 09:52:42 verbose: Verbose info
+2020-09-07 09:52:42 info: Hello world
+2020-09-07 09:52:42 warn: Warning message
+2020-09-07 09:52:42 error: Error info
+2020-09-07 09:54:59 verbose: Verbose info
+2020-09-07 09:54:59 info: Hello world
+2020-09-07 09:54:59 warn: Warning message
+2020-09-07 09:54:59 error: Error info
+2020-09-07 09:54:59 info: works
+2020-09-07 09:55:38 verbose: Verbose info
+2020-09-07 09:55:38 info: Hello world
+2020-09-07 09:55:38 warn: Warning message
+2020-09-07 09:55:38 error: Error info
+2020-09-07 09:55:38 info: works
+2020-09-07 09:55:54 verbose: Verbose info
+2020-09-07 09:55:54 info: Hello world
+2020-09-07 09:55:54 warn: Warning message
+2020-09-07 09:55:54 error: Error info
+2020-09-07 09:55:54 info: works
+2020-09-07 09:56:50 verbose: Verbose info
+2020-09-07 09:56:50 info: Hello world
+2020-09-07 09:56:50 warn: Warning message
+2020-09-07 09:56:50 error: Error info
+2020-09-07 09:56:50 info: works
+2020-09-07 09:58:47 verbose: Verbose info
+2020-09-07 09:58:47 info: Hello world
+2020-09-07 09:58:47 warn: Warning message
+2020-09-07 09:58:47 error: Error info
+2020-09-07 09:58:47 info: works
+2020-09-07 09:59:08 verbose: Verbose info
+2020-09-07 09:59:08 info: Hello world
+2020-09-07 09:59:08 warn: Warning message
+2020-09-07 09:59:08 error: Error info
+2020-09-07 09:59:08 info: works
+2020-09-07 09:59:09 info: works
+2020-09-07 10:00:20 verbose: Verbose info
+2020-09-07 10:00:20 info: Hello world
+2020-09-07 10:00:20 warn: Warning message
+2020-09-07 10:00:20 error: Error info
+2020-09-07 10:00:21 info: works
+2020-09-07 10:00:25 verbose: Verbose info
+2020-09-07 10:00:25 info: Hello world
+2020-09-07 10:00:25 warn: Warning message
+2020-09-07 10:00:25 error: Error info
+2020-09-07 10:00:54 verbose: Verbose info
+2020-09-07 10:00:54 info: Hello world
+2020-09-07 10:00:54 warn: Warning message
+2020-09-07 10:00:54 error: Error info
+2020-09-07 10:04:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:06:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:08:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:10:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:12:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:14:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:16:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:18:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:20:16 info: To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:40:24 info: Created optimizedImages directory
+2020-09-07 10:40:24 info: Created originalImages directory
+2020-09-07 10:48:09 info: Created optimizedImages directory
+2020-09-07 10:48:09 info: Created originalImages directory
+2020-09-07 10:50:09 info: 
+ To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:52:09 info: 
+ To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 10:57:06 info: Created optimizedImages directory
+2020-09-07 10:57:06 info: Created originalImages directory
+2020-09-07 10:57:28 info: Created optimizedImages directory
+2020-09-07 10:57:28 info: Created originalImages directory
+2020-09-07 10:57:31 info: Created optimizedImages directory
+2020-09-07 10:57:31 info: Created originalImages directory
+2020-09-07 10:58:01 info: Created optimizedImages directory
+2020-09-07 10:58:01 info: Created originalImages directory
+2020-09-07 11:00:01 info: 
+ To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:00:47 info: Created optimizedImages directory
+2020-09-07 11:00:47 info: Created originalImages directory
+2020-09-07 11:01:05 info: Created optimizedImages directory
+2020-09-07 11:01:05 info: Created originalImages directory
+2020-09-07 11:03:05 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:05:05 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:19:50 info: Created optimizedImages directory
+2020-09-07 11:19:50 info: Created originalImages directory
+2020-09-07 11:20:33 info: Created optimizedImages directory
+2020-09-07 11:20:33 info: Created originalImages directory
+2020-09-07 11:20:58 info: Created optimizedImages directory
+2020-09-07 11:20:58 info: Created originalImages directory
+2020-09-07 11:21:10 info: Created optimizedImages directory
+2020-09-07 11:21:10 info: Created originalImages directory
+2020-09-07 11:21:24 info: Created optimizedImages directory
+2020-09-07 11:21:24 info: Created originalImages directory
+2020-09-07 11:21:59 info: Created optimizedImages directory
+2020-09-07 11:21:59 info: Created originalImages directory
+2020-09-07 11:22:41 info: Created optimizedImages directory
+2020-09-07 11:22:41 info: Created originalImages directory
+2020-09-07 11:24:41 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:31:03 info: Created optimizedImages directory
+2020-09-07 11:31:03 info: Created originalImages directory
+2020-09-07 11:33:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:35:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:37:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:39:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:41:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:43:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:45:03 info: 
+To be optimized: 1 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:45:09 info: Image optimization finished: 1 optimized
+2020-09-07 11:45:11 info: Moving  finished: 1 files moved to optimized
+2020-09-07 11:47:03 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:47:07 info: Created optimizedImages directory
+2020-09-07 11:47:07 info: Created originalImages directory
+2020-09-07 11:49:06 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:51:06 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:53:06 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:55:06 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 11:56:21 info: Created optimizedImages directory
+2020-09-07 11:56:21 info: Created originalImages directory
+2020-09-07 11:58:21 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:00:21 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:00:27 info: Created optimizedImages directory
+2020-09-07 12:00:27 info: Created originalImages directory
+2020-09-07 12:02:27 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:02:37 info: Created optimizedImages directory
+2020-09-07 12:02:37 info: Created originalImages directory
+2020-09-07 12:03:04 info: Created optimizedImages directory
+2020-09-07 12:03:04 info: Created originalImages directory
+2020-09-07 12:05:04 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:05:34 info: Created optimizedImages directory
+2020-09-07 12:05:34 info: Created originalImages directory
+2020-09-07 12:06:41 info: Created optimizedImages directory
+2020-09-07 12:06:41 info: Created originalImages directory
+2020-09-07 12:07:03 info: Created optimizedImages directory
+2020-09-07 12:07:03 info: Created originalImages directory
+2020-09-07 12:07:24 info: Created optimizedImages directory
+2020-09-07 12:07:24 info: Created originalImages directory
+2020-09-07 12:07:43 info: Created optimizedImages directory
+2020-09-07 12:07:43 info: Created originalImages directory
+2020-09-07 12:08:10 info: Created optimizedImages directory
+2020-09-07 12:08:10 info: Created originalImages directory
+2020-09-07 12:08:26 info: Created optimizedImages directory
+2020-09-07 12:08:26 info: Created originalImages directory
+2020-09-07 12:11:09 info: Created optimizedImages directory
+2020-09-07 12:11:09 info: Created originalImages directory
+2020-09-07 12:11:37 info: Created optimizedImages directory
+2020-09-07 12:11:37 info: Created originalImages directory
+2020-09-07 12:12:11 info: Created optimizedImages directory
+2020-09-07 12:12:11 info: Created originalImages directory
+2020-09-07 12:13:47 info: Created optimizedImages directory
+2020-09-07 12:13:47 info: Created originalImages directory
+2020-09-07 12:15:05 info: Created optimizedImages directory
+2020-09-07 12:15:05 info: Created originalImages directory
+2020-09-07 12:16:32 info: Created optimizedImages directory
+2020-09-07 12:16:32 info: Created originalImages directory
+2020-09-07 12:18:32 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:18:41 info: Image optimization finished: 4 optimized
+2020-09-07 12:18:43 error: Cast to ObjectId failed for value "_house_g1t881jrpkeshm0sl" at path "_id" for model "Property"
+2020-09-07 12:20:32 info: 
+To be optimized: 4 
+To be uploaded 4 
+To be moved: 4
+2020-09-07 12:20:32 error: Cast to ObjectId failed for value "_house_g1t881jrpkeshm0sl" at path "_id" for model "Property"
+2020-09-07 12:21:15 info: Created optimizedImages directory
+2020-09-07 12:21:15 info: Created originalImages directory
+2020-09-07 12:23:15 info: 
+To be optimized: 4 
+To be uploaded 4 
+To be moved: 4
+2020-09-07 12:23:15 error: Cast to ObjectId failed for value "_house_g1t881jrpkeshm0sl" at path "_id" for model "Property"
+2020-09-07 12:25:15 info: 
+To be optimized: 4 
+To be uploaded 4 
+To be moved: 4
+2020-09-07 12:25:15 error: Cast to ObjectId failed for value "_house_g1t881jrpkeshm0sl" at path "_id" for model "Property"
+2020-09-07 12:27:15 info: 
+To be optimized: 4 
+To be uploaded 4 
+To be moved: 4
+2020-09-07 12:27:15 error: Cast to ObjectId failed for value "_house_g1t881jrpkeshm0sl" at path "_id" for model "Property"
+2020-09-07 12:27:33 info: Created optimizedImages directory
+2020-09-07 12:27:33 info: Created originalImages directory
+2020-09-07 12:29:15 info: Created optimizedImages directory
+2020-09-07 12:29:15 info: Created originalImages directory
+2020-09-07 12:31:15 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:33:15 info: Created optimizedImages directory
+2020-09-07 12:33:15 info: Created originalImages directory
+2020-09-07 12:34:55 info: Created optimizedImages directory
+2020-09-07 12:34:55 info: Created originalImages directory
+2020-09-07 12:35:36 info: Created optimizedImages directory
+2020-09-07 12:35:36 info: Created originalImages directory
+2020-09-07 12:36:09 info: Created optimizedImages directory
+2020-09-07 12:36:09 info: Created originalImages directory
+2020-09-07 12:38:07 info: Created optimizedImages directory
+2020-09-07 12:38:07 info: Created originalImages directory
+2020-09-07 12:38:41 info: Created optimizedImages directory
+2020-09-07 12:38:41 info: Created originalImages directory
+2020-09-07 12:38:51 info: Created optimizedImages directory
+2020-09-07 12:38:51 info: Created originalImages directory
+2020-09-07 12:38:54 info: Created optimizedImages directory
+2020-09-07 12:38:54 info: Created originalImages directory
+2020-09-07 12:40:12 info: Created optimizedImages directory
+2020-09-07 12:40:12 info: Created originalImages directory
+2020-09-07 12:42:12 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:12 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:14 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:16 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:16 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:16 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:18 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:20 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:20 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:20 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:22 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:24 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:24 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:24 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:26 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:28 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:28 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:28 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:30 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:32 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:32 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:32 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:34 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:36 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:36 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:36 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:38 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:40 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:40 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:40 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:42 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:44 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:44 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:44 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:46 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:48 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:48 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:48 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:50 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:52 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:52 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:52 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:54 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:42:56 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:42:56 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:42:56 info: Image optimization finished: 4 optimized
+2020-09-07 12:42:58 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:00 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:00 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:00 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:02 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:04 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:04 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:04 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:06 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:08 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:08 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:08 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:10 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:12 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:12 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:12 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:14 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:16 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:16 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:16 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:18 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:20 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:20 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:20 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:22 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:24 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:24 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:24 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:26 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:28 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:28 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:28 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:30 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:32 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:32 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:32 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:34 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:36 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:36 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:36 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:38 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:40 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:40 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:40 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:42 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:44 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:44 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:44 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:46 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:48 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:48 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:48 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:50 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:52 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:52 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:52 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:54 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:43:56 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:43:56 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:43:56 info: Image optimization finished: 4 optimized
+2020-09-07 12:43:58 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:00 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:00 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:00 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:02 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:04 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:04 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:04 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:06 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:08 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:08 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:08 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:10 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:12 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:12 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:12 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:12 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:12 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:14 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:14 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:16 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:16 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:16 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:16 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:16 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:16 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:18 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:18 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:20 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:20 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:20 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:20 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:20 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:20 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:22 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:22 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:24 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:24 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:24 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:24 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:24 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:24 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:26 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:26 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:28 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:28 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:28 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:28 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:28 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:28 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:30 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:30 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:32 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:32 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:32 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:32 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:32 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:32 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:34 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:34 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:36 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:36 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:36 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:36 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:36 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:36 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:38 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:38 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:40 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:40 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:40 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:40 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:40 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:40 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:42 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:42 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:44 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:44 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:44 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:44 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:44 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:44 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:46 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:46 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:48 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:48 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:48 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:48 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:48 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:48 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:50 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:50 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:52 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:52 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:52 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:52 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:52 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:52 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:54 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:54 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:56 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:56 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:56 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:56 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:44:56 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:44:56 info: Image optimization finished: 4 optimized
+2020-09-07 12:44:58 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:44:58 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:00 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:00 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:00 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:00 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:00 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:00 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:02 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:02 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:04 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:04 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:04 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:04 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:04 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:04 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:06 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:06 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:08 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:08 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:08 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:08 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:08 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:08 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:10 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:10 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:12 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:12 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:12 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:12 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:12 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:12 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:14 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:14 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:16 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:16 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:16 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:16 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:16 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:16 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:18 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:18 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:20 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:20 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:20 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:20 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:20 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:20 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:22 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:22 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:24 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:24 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:24 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:24 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:24 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:24 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:26 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:26 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:45:28 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:45:28 info: 
+To be optimized: 4 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:45:28 info: Image optimization finished: 4 optimized
+2020-09-07 12:45:30 info: Created optimizedImages directory
+2020-09-07 12:45:30 info: Created originalImages directory
+2020-09-07 12:46:03 info: Created optimizedImages directory
+2020-09-07 12:46:03 info: Created originalImages directory
+2020-09-07 12:47:30 info: Created optimizedImages directory
+2020-09-07 12:47:30 info: Created originalImages directory
+2020-09-07 12:48:30 info: Created optimizedImages directory
+2020-09-07 12:48:30 info: Created originalImages directory
+2020-09-07 12:48:50 info: Created optimizedImages directory
+2020-09-07 12:48:50 info: Created originalImages directory
+2020-09-07 12:50:50 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:50:50 info: Image optimization finished: 8 optimized
+2020-09-07 12:50:52 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:50:54 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:50:54 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:50:54 info: Image optimization finished: 8 optimized
+2020-09-07 12:50:56 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:50:58 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:50:58 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:50:58 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:00 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:51:02 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:51:02 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:51:02 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:04 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:51:06 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:51:06 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:51:06 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:08 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:51:10 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:51:10 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:51:10 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:12 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:51:14 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:51:14 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:51:14 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:16 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:51:18 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:51:18 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:51:18 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:20 info: Moving  finished: 0 files moved to optimized
+2020-09-07 12:51:22 info: Upload to cloud finished: 0 files uploaded
+2020-09-07 12:51:22 info: 
+To be optimized: 8 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 12:51:22 info: Image optimization finished: 8 optimized
+2020-09-07 12:51:24 info: Created optimizedImages directory
+2020-09-07 12:51:24 info: Created originalImages directory
+2020-09-07 12:51:37 info: Created optimizedImages directory
+2020-09-07 12:51:37 info: Created originalImages directory
+2020-09-07 12:52:11 info: Created optimizedImages directory
+2020-09-07 12:52:11 info: Created originalImages directory
+2020-09-07 12:52:25 info: Created optimizedImages directory
+2020-09-07 12:52:25 info: Created originalImages directory
+2020-09-07 12:54:07 info: Created optimizedImages directory
+2020-09-07 12:54:07 info: Created originalImages directory
+2020-09-07 12:54:32 info: Created optimizedImages directory
+2020-09-07 12:54:32 info: Created originalImages directory
+2020-09-07 12:56:59 info: Created optimizedImages directory
+2020-09-07 12:56:59 info: Created originalImages directory
+2020-09-07 12:59:18 info: Created optimizedImages directory
+2020-09-07 12:59:18 info: Created originalImages directory
+2020-09-07 13:01:08 info: Created optimizedImages directory
+2020-09-07 13:01:08 info: Created originalImages directory
+2020-09-07 13:04:08 info: Created optimizedImages directory
+2020-09-07 13:04:08 info: Created originalImages directory
+2020-09-07 13:13:13 info: Created optimizedImages directory
+2020-09-07 13:13:13 info: Created originalImages directory
+2020-09-07 13:13:25 info: Created optimizedImages directory
+2020-09-07 13:13:25 info: Created originalImages directory
+2020-09-07 13:13:29 info: Created optimizedImages directory
+2020-09-07 13:13:29 info: Created originalImages directory
+2020-09-07 13:15:44 info: Created optimizedImages directory
+2020-09-07 13:15:44 info: Created originalImages directory
+2020-09-07 13:21:36 info: Created optimizedImages directory
+2020-09-07 13:21:36 info: Created originalImages directory
+2020-09-07 13:22:11 info: Created optimizedImages directory
+2020-09-07 13:22:11 info: Created originalImages directory
+2020-09-07 13:22:17 info: Created optimizedImages directory
+2020-09-07 13:22:17 info: Created originalImages directory
+2020-09-07 13:23:09 info: Created optimizedImages directory
+2020-09-07 13:23:09 info: Created originalImages directory
+2020-09-07 13:23:52 info: Created optimizedImages directory
+2020-09-07 13:23:52 info: Created originalImages directory
+2020-09-07 13:26:46 info: Created optimizedImages directory
+2020-09-07 13:26:46 info: Created originalImages directory
+2020-09-07 13:35:59 info: Created optimizedImages directory
+2020-09-07 13:35:59 info: Created originalImages directory
+2020-09-07 13:36:21 info: Created optimizedImages directory
+2020-09-07 13:36:21 info: Created originalImages directory
+2020-09-07 13:37:05 info: Created optimizedImages directory
+2020-09-07 13:37:05 info: Created originalImages directory
+2020-09-07 13:37:41 info: Created optimizedImages directory
+2020-09-07 13:37:41 info: Created originalImages directory
+2020-09-07 13:38:42 info: Created optimizedImages directory
+2020-09-07 13:38:42 info: Created originalImages directory
+2020-09-07 13:46:47 info: Created optimizedImages directory
+2020-09-07 13:46:47 info: Created originalImages directory
+2020-09-07 13:53:30 info: Created optimizedImages directory
+2020-09-07 13:53:30 info: Created originalImages directory
+2020-09-07 13:55:27 info: Created optimizedImages directory
+2020-09-07 13:55:27 info: Created originalImages directory
+2020-09-07 13:55:37 info: Created optimizedImages directory
+2020-09-07 13:55:37 info: Created originalImages directory
+2020-09-07 13:55:41 info: Created optimizedImages directory
+2020-09-07 13:55:41 info: Created originalImages directory
+2020-09-07 13:57:04 info: Created optimizedImages directory
+2020-09-07 13:57:04 info: Created originalImages directory
+2020-09-07 13:59:25 info: Created optimizedImages directory
+2020-09-07 13:59:25 info: Created originalImages directory
+2020-09-07 13:59:38 info: Created optimizedImages directory
+2020-09-07 13:59:38 info: Created originalImages directory
+2020-09-07 14:05:12 info: Created optimizedImages directory
+2020-09-07 14:05:12 info: Created originalImages directory
+2020-09-07 14:05:23 info: Created optimizedImages directory
+2020-09-07 14:05:23 info: Created originalImages directory
+2020-09-07 14:08:52 info: Created optimizedImages directory
+2020-09-07 14:08:52 info: Created originalImages directory
+2020-09-07 14:10:33 info: Created optimizedImages directory
+2020-09-07 14:10:33 info: Created originalImages directory
+2020-09-07 14:13:26 info: Created optimizedImages directory
+2020-09-07 14:13:26 info: Created originalImages directory
+2020-09-07 14:27:36 info: Created optimizedImages directory
+2020-09-07 14:27:36 info: Created originalImages directory
+2020-09-07 14:28:05 info: Created optimizedImages directory
+2020-09-07 14:28:05 info: Created originalImages directory
+2020-09-07 14:36:34 info: Created optimizedImages directory
+2020-09-07 14:36:34 info: Created originalImages directory
+2020-09-07 14:38:34 info: 
+To be optimized: 2 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:38:37 info: Image optimization finished: 2 optimized
+2020-09-07 14:38:39 info: Moving  finished: 2 files moved to optimized
+2020-09-07 14:38:41 info: Upload to cloud finished: 2 files uploaded
+2020-09-07 14:38:41 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:40:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:42:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:44:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:46:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:48:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:50:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:52:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:54:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:56:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 14:58:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 15:00:34 info: 
+To be optimized: 0 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 15:03:12 info: Created optimizedImages directory
+2020-09-07 15:03:12 info: Created originalImages directory
+2020-09-07 15:05:12 info: 
+To be optimized: 2 
+To be uploaded 0 
+To be moved: 0
+2020-09-07 15:05:14 info: Image optimization finished: 2 optimized
+2020-09-07 15:05:16 error: No matching document found for id "5f561d25138395f6dcd01d3f" version 14 modifiedPaths "images"
+2020-09-07 15:05:16 info: Moving  finished: 2 files moved to optimized
+2020-09-07 15:07:12 info: 
+To be optimized: 1 
+To be uploaded 2 
+To be moved: 1
+2020-09-07 15:07:12 info: Moving  finished: 2 files moved to optimized
+2020-09-07 15:09:19 info: Created optimizedImages directory
+2020-09-07 15:09:19 info: Created originalImages directory
+2020-09-07 15:10:50 info: Created optimizedImages directory
+2020-09-07 15:10:50 info: Created originalImages directory
+2020-09-07 15:11:07 info: Created optimizedImages directory
+2020-09-07 15:11:07 info: Created originalImages directory
+2020-09-07 15:11:25 info: Created optimizedImages directory
+2020-09-07 15:11:25 info: Created originalImages directory
+2020-09-07 15:14:39 info: Created originalImages directory
+2020-09-07 15:14:39 info: Created optimizedImages directory
